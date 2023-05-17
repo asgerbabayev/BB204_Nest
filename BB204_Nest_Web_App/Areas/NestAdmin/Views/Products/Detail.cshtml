@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewData["Title"] = "Detail";
+}
+
+@model Product
+
+
+<div class="container">
+        <div class="card-body">
+            <h5 class="card-title">Product: @Model.Name</h5>
+            <p class="card-text">Category Name: @Model.Category.Name</p>
+        </div>
+    <div class="row">
+        @foreach (var item in Model.ProductImages)
+        {
+            <div class="col-3">
+                <div class="card" style="width: 18rem;">
+                    <img style="width: 100px; height: 100px;" class="card-img-top" src="~/assets/imgs/shop/@item.Image" alt="Card image cap">
+                </div>
+            </div>
+        }
+    </div>
+</div>
+

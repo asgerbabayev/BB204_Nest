@@ -1,0 +1,25 @@
+﻿@model CommentVM
+
+<div class="col-lg-8 col-md-12">
+    <form class="form-contact comment_form" asp-controller="Product" asp-action="CreateComment"
+          id="commentForm">
+        <div class="row">
+            <div class="col-12">
+                <div class="form-group">
+                    <textarea class="form-control w-100" asp-for="Description" cols="30"
+                              rows="9"
+                              placeholder="Write Comment"></textarea>
+                </div>
+                    <input hidden asp-for="ProductId" />
+                    <input hidden asp-for="ApplicationUserId" />
+            </div>
+        </div>
+        <div class="form-group">
+            <button type="submit"
+                    class="button button-contactForm">
+                Submit
+                Review
+            </button>
+        </div>
+    </form>
+</div>

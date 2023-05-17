@@ -1,0 +1,1981 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BB204_Nest_Web_App.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BB204_Nest_Web_App.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\css\\style.css",
+      "PackagePath": "staticwebassets\\admin\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\fonts\\Roboto\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\images\\auth\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\images\\auth\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\images\\faces\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\admin\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\admin\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\admin\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\js\\chart.js",
+      "PackagePath": "staticwebassets\\admin\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\admin\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\js\\data-table.js",
+      "PackagePath": "staticwebassets\\admin\\js\\data-table.js"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\admin\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\js\\documentation.js",
+      "PackagePath": "staticwebassets\\admin\\js\\documentation.js"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\admin\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\admin\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\admin\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\admin\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\js\\template.js",
+      "PackagePath": "staticwebassets\\admin\\js\\template.js"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\vendors\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\vendors\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\base\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\base\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\vendors\\datatables.net\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\datatables.net\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\css\\main.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\css\\plugins\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\css\\plugins\\animate.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\css\\plugins\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\css\\plugins\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\css\\plugins\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\css\\plugins\\select2.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\css\\plugins\\slick.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\css\\plugins\\slider-range.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\slider-range.css"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\css\\vendors\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendors\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\css\\vendors\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\vendors\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\css\\vendors\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendors\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\css\\vendors\\normalize.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendors\\normalize.css"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\css\\vendors\\uicons-regular-straight.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendors\\uicons-regular-straight.css"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\fonts\\uicons\\uicons-regular-straight.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\uicons\\uicons-regular-straight.eot"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\fonts\\uicons\\uicons-regular-straight.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\uicons\\uicons-regular-straight.woff"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\fonts\\uicons\\uicons-regular-straight.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\uicons\\uicons-regular-straight.woff2"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\banner\\banner-1.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\banner-1.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\banner\\banner-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\banner-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\banner\\banner-10.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\banner-10.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\banner\\banner-11.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\banner-11.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\banner\\banner-12.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\banner-12.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\banner\\banner-13.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\banner-13.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\banner\\banner-14.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\banner-14.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\banner\\banner-15.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\banner-15.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\banner\\banner-16.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\banner-16.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\banner\\banner-17.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\banner-17.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\banner\\banner-18.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\banner-18.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\banner\\banner-19.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\banner-19.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\banner\\banner-2.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\banner-2.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\banner\\banner-3.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\banner-3.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\banner\\banner-4.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\banner-4.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\banner\\banner-5.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\banner-5.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\banner\\banner-6.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\banner-6.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\banner\\banner-7.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\banner-7.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\banner\\banner-8.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\banner-8.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\banner\\banner-9.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\banner-9.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\banner\\banner-menu.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\banner-menu.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\banner\\fillter-widget-bg.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\fillter-widget-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\banner\\popup-1.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\banner\\popup-1.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\blog\\author-1.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\author-1.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\blog\\author-2.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\author-2.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\blog\\author-3.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\author-3.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\blog\\author-4.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\author-4.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\blog\\blog-1.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-1.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\blog\\blog-10.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-10.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\blog\\blog-11.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-11.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\blog\\blog-12.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-12.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\blog\\blog-13.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-13.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\blog\\blog-14.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-14.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\blog\\blog-15.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-15.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\blog\\blog-16.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-16.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\blog\\blog-17.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-17.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\blog\\blog-18.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-18.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\blog\\blog-19.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-19.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\blog\\blog-2.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-2.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\blog\\blog-20.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-20.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\blog\\blog-21.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-21.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\blog\\blog-3.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-3.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\blog\\blog-4.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-4.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\blog\\blog-5.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-5.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\blog\\blog-6.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-6.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\blog\\blog-7.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-7.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\blog\\blog-8.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-8.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\blog\\blog-9.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\blog-9.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\blog\\header-bg.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog\\header-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\invoice\\banner.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\invoice\\banner.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\invoice\\header-bg-1.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\invoice\\header-bg-1.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\invoice\\header-bg-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\invoice\\header-bg-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\page\\about-1.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\page\\about-1.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\page\\about-2.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\page\\about-2.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\page\\about-3.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\page\\about-3.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\page\\about-4.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\page\\about-4.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\page\\about-5.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\page\\about-5.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\page\\about-6.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\page\\about-6.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\page\\about-8.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\page\\about-8.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\page\\about-9.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\page\\about-9.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\page\\bg-1.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\page\\bg-1.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\page\\contact-1.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\page\\contact-1.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\page\\contact-2.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\page\\contact-2.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\page\\guide-1.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\page\\guide-1.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\page\\home-6-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\page\\home-6-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\page\\login-1.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\page\\login-1.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\page\\page-404.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\page\\page-404.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\01cb5bf4-5d91-4e6a-9ef9-924ca22bac4b_00c98be7-020f-4ed4-80cc-2c5cc0268cf2_face7.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\01cb5bf4-5d91-4e6a-9ef9-924ca22bac4b_00c98be7-020f-4ed4-80cc-2c5cc0268cf2_face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\02f07e98-cc54-4599-9e8c-016492acd851_0bef125b-8988-4da7-8a51-e58cb324fcbe_5d44e587-1b4a-43f5-9899-1535b71ee20c_face14.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\02f07e98-cc54-4599-9e8c-016492acd851_0bef125b-8988-4da7-8a51-e58cb324fcbe_5d44e587-1b4a-43f5-9899-1535b71ee20c_face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\03866d24-d594-4e26-825f-7b1411013ce0_face11.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\03866d24-d594-4e26-825f-7b1411013ce0_face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\047af867-3b40-4dbd-b30b-927912fbc5b0_0eb59c85-11d5-4c01-94ff-49fdae079b3f_face8.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\047af867-3b40-4dbd-b30b-927912fbc5b0_0eb59c85-11d5-4c01-94ff-49fdae079b3f_face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\052c0c36-fcdb-41f3-aee8-59b8409ca089_00c98be7-020f-4ed4-80cc-2c5cc0268cf2_face7.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\052c0c36-fcdb-41f3-aee8-59b8409ca089_00c98be7-020f-4ed4-80cc-2c5cc0268cf2_face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\06191239-7c08-4ef5-8c15-0c441bfa9162_1e19380c-3930-48d7-8a87-bc9aa8c6e224_face8.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\06191239-7c08-4ef5-8c15-0c441bfa9162_1e19380c-3930-48d7-8a87-bc9aa8c6e224_face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\0a03e4f6-7201-4d74-8a53-8edcf2e5c1ab_face8.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\0a03e4f6-7201-4d74-8a53-8edcf2e5c1ab_face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\0b854a04-7cef-42a6-8ce2-b149af593c0e_1e19380c-3930-48d7-8a87-bc9aa8c6e224_face8.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\0b854a04-7cef-42a6-8ce2-b149af593c0e_1e19380c-3930-48d7-8a87-bc9aa8c6e224_face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\0eb59c85-11d5-4c01-94ff-49fdae079b3f_face8.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\0eb59c85-11d5-4c01-94ff-49fdae079b3f_face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\135d1928-289d-4a65-a616-841ef843903d_0eb59c85-11d5-4c01-94ff-49fdae079b3f_face8.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\135d1928-289d-4a65-a616-841ef843903d_0eb59c85-11d5-4c01-94ff-49fdae079b3f_face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\148c6bcf-e259-4fb2-963a-0442b573050d_0a03e4f6-7201-4d74-8a53-8edcf2e5c1ab_face8.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\148c6bcf-e259-4fb2-963a-0442b573050d_0a03e4f6-7201-4d74-8a53-8edcf2e5c1ab_face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\1fd5f780-7cee-4429-8764-06a2a481730d_product-2-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\1fd5f780-7cee-4429-8764-06a2a481730d_product-2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\234dee92-c50c-4bf7-9de1-1b51be276395_01de4cbf-42e2-4592-bb6b-067ba9d50dc4_5ca37a57-5496-4b4a-88bb-16f17d1f8f33_4e81ac47-084f-406d-b3bd-f62da4137607_product-2-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\234dee92-c50c-4bf7-9de1-1b51be276395_01de4cbf-42e2-4592-bb6b-067ba9d50dc4_5ca37a57-5496-4b4a-88bb-16f17d1f8f33_4e81ac47-084f-406d-b3bd-f62da4137607_product-2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\2377ab57-0167-4bf2-a259-2259d3ac112a_product-2-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\2377ab57-0167-4bf2-a259-2259d3ac112a_product-2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\2b141a33-f28c-43c9-92d9-54baeb8da6b6_0a03e4f6-7201-4d74-8a53-8edcf2e5c1ab_face8.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\2b141a33-f28c-43c9-92d9-54baeb8da6b6_0a03e4f6-7201-4d74-8a53-8edcf2e5c1ab_face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\2c77f95f-f481-459f-a5de-2e7fbac4d8cc_01de4cbf-42e2-4592-bb6b-067ba9d50dc4_5ca37a57-5496-4b4a-88bb-16f17d1f8f33_4e81ac47-084f-406d-b3bd-f62da4137607_product-2-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\2c77f95f-f481-459f-a5de-2e7fbac4d8cc_01de4cbf-42e2-4592-bb6b-067ba9d50dc4_5ca37a57-5496-4b4a-88bb-16f17d1f8f33_4e81ac47-084f-406d-b3bd-f62da4137607_product-2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\2ff022ad-5910-45ea-b734-3e7818835a4a_1ea058c6-a643-44f7-9fde-df63706cac0f_0bef125b-8988-4da7-8a51-e58cb324fcbe_5d44e587-1b4a-43f5-9899-1535b71ee20c_face14.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\2ff022ad-5910-45ea-b734-3e7818835a4a_1ea058c6-a643-44f7-9fde-df63706cac0f_0bef125b-8988-4da7-8a51-e58cb324fcbe_5d44e587-1b4a-43f5-9899-1535b71ee20c_face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\30cb1bdb-5c5c-4385-9ada-f9bee2a63115_31f24bb6-e586-4c42-acc4-752887e90ec9_face5.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\30cb1bdb-5c5c-4385-9ada-f9bee2a63115_31f24bb6-e586-4c42-acc4-752887e90ec9_face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\31f24bb6-e586-4c42-acc4-752887e90ec9_face5.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\31f24bb6-e586-4c42-acc4-752887e90ec9_face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\341897fa-88d0-49c7-8e1b-5579cacbe171_1ea058c6-a643-44f7-9fde-df63706cac0f_0bef125b-8988-4da7-8a51-e58cb324fcbe_5d44e587-1b4a-43f5-9899-1535b71ee20c_face14.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\341897fa-88d0-49c7-8e1b-5579cacbe171_1ea058c6-a643-44f7-9fde-df63706cac0f_0bef125b-8988-4da7-8a51-e58cb324fcbe_5d44e587-1b4a-43f5-9899-1535b71ee20c_face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\3b25b3e0-f01b-44d6-9cea-1c1e9b1c4112_1e19380c-3930-48d7-8a87-bc9aa8c6e224_face8.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\3b25b3e0-f01b-44d6-9cea-1c1e9b1c4112_1e19380c-3930-48d7-8a87-bc9aa8c6e224_face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\4b1aabe0-4e89-4551-bf6d-ff825ec6e002_1e19380c-3930-48d7-8a87-bc9aa8c6e224_face8.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\4b1aabe0-4e89-4551-bf6d-ff825ec6e002_1e19380c-3930-48d7-8a87-bc9aa8c6e224_face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\4c6c5851-44c9-428b-b8fe-48034b86f0c0_0a03e4f6-7201-4d74-8a53-8edcf2e5c1ab_face8.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\4c6c5851-44c9-428b-b8fe-48034b86f0c0_0a03e4f6-7201-4d74-8a53-8edcf2e5c1ab_face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\4e95d789-59ca-4694-a379-b6a47e439e88_4fea45a0-2e4a-4ae7-b2eb-6f1b1137d707_face11.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\4e95d789-59ca-4694-a379-b6a47e439e88_4fea45a0-2e4a-4ae7-b2eb-6f1b1137d707_face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\531f6bdf-d54d-4fc5-9886-709c72649bf0_face1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\531f6bdf-d54d-4fc5-9886-709c72649bf0_face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\542df963-f9e6-4e3f-add2-ed16a42a5e00_product-2-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\542df963-f9e6-4e3f-add2-ed16a42a5e00_product-2-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\56948fd0-6dcc-46c0-8eef-dd467ba3911e_0a03e4f6-7201-4d74-8a53-8edcf2e5c1ab_face8.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\56948fd0-6dcc-46c0-8eef-dd467ba3911e_0a03e4f6-7201-4d74-8a53-8edcf2e5c1ab_face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\58862e44-2e02-4a87-ba20-cbd06b4a587b_1ea058c6-a643-44f7-9fde-df63706cac0f_0bef125b-8988-4da7-8a51-e58cb324fcbe_5d44e587-1b4a-43f5-9899-1535b71ee20c_face14.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\58862e44-2e02-4a87-ba20-cbd06b4a587b_1ea058c6-a643-44f7-9fde-df63706cac0f_0bef125b-8988-4da7-8a51-e58cb324fcbe_5d44e587-1b4a-43f5-9899-1535b71ee20c_face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\5d44e587-1b4a-43f5-9899-1535b71ee20c_face14.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\5d44e587-1b4a-43f5-9899-1535b71ee20c_face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\64e9bfd6-2cb4-437c-b6c3-d3e21b35bb73_0a03e4f6-7201-4d74-8a53-8edcf2e5c1ab_face8.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\64e9bfd6-2cb4-437c-b6c3-d3e21b35bb73_0a03e4f6-7201-4d74-8a53-8edcf2e5c1ab_face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\650c5631-596f-4ace-8172-17b95664b38c_02babe50-ff98-4a45-adde-4ebf44a65cbc_face6.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\650c5631-596f-4ace-8172-17b95664b38c_02babe50-ff98-4a45-adde-4ebf44a65cbc_face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\68a0f9f7-6238-4a21-95ed-0d9e8373689d_face17.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\68a0f9f7-6238-4a21-95ed-0d9e8373689d_face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\69159e8d-f28f-4174-829d-2016ab58e42a_0a03e4f6-7201-4d74-8a53-8edcf2e5c1ab_face8.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\69159e8d-f28f-4174-829d-2016ab58e42a_0a03e4f6-7201-4d74-8a53-8edcf2e5c1ab_face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\6a4a4530-c6a4-41ca-8b15-56b1daaba015_01de4cbf-42e2-4592-bb6b-067ba9d50dc4_5ca37a57-5496-4b4a-88bb-16f17d1f8f33_4e81ac47-084f-406d-b3bd-f62da4137607_product-2-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\6a4a4530-c6a4-41ca-8b15-56b1daaba015_01de4cbf-42e2-4592-bb6b-067ba9d50dc4_5ca37a57-5496-4b4a-88bb-16f17d1f8f33_4e81ac47-084f-406d-b3bd-f62da4137607_product-2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\6ce3dcb9-7774-40a0-8e21-e3b7a2e9706f_0a03e4f6-7201-4d74-8a53-8edcf2e5c1ab_face8.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\6ce3dcb9-7774-40a0-8e21-e3b7a2e9706f_0a03e4f6-7201-4d74-8a53-8edcf2e5c1ab_face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\6fc5c7e7-93ef-4051-9b20-31e206375ffe_1ea058c6-a643-44f7-9fde-df63706cac0f_0bef125b-8988-4da7-8a51-e58cb324fcbe_5d44e587-1b4a-43f5-9899-1535b71ee20c_face14.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\6fc5c7e7-93ef-4051-9b20-31e206375ffe_1ea058c6-a643-44f7-9fde-df63706cac0f_0bef125b-8988-4da7-8a51-e58cb324fcbe_5d44e587-1b4a-43f5-9899-1535b71ee20c_face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\797ac3f8-91a2-4020-b5ae-7896e0916442_1e19380c-3930-48d7-8a87-bc9aa8c6e224_face8.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\797ac3f8-91a2-4020-b5ae-7896e0916442_1e19380c-3930-48d7-8a87-bc9aa8c6e224_face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\7d84cdda-e485-4730-83f2-7279a37feaf7_01de4cbf-42e2-4592-bb6b-067ba9d50dc4_5ca37a57-5496-4b4a-88bb-16f17d1f8f33_4e81ac47-084f-406d-b3bd-f62da4137607_product-2-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\7d84cdda-e485-4730-83f2-7279a37feaf7_01de4cbf-42e2-4592-bb6b-067ba9d50dc4_5ca37a57-5496-4b4a-88bb-16f17d1f8f33_4e81ac47-084f-406d-b3bd-f62da4137607_product-2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\7dc9fe94-21ac-4fc3-9ac1-b4f11aaf6d69_1ea058c6-a643-44f7-9fde-df63706cac0f_0bef125b-8988-4da7-8a51-e58cb324fcbe_5d44e587-1b4a-43f5-9899-1535b71ee20c_face14.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\7dc9fe94-21ac-4fc3-9ac1-b4f11aaf6d69_1ea058c6-a643-44f7-9fde-df63706cac0f_0bef125b-8988-4da7-8a51-e58cb324fcbe_5d44e587-1b4a-43f5-9899-1535b71ee20c_face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\7f97ba32-0063-4172-a78c-a2970b00c722_face3.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\7f97ba32-0063-4172-a78c-a2970b00c722_face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\816074a4-5e53-4d25-87c7-7c2ce7a1fae4_1ea058c6-a643-44f7-9fde-df63706cac0f_0bef125b-8988-4da7-8a51-e58cb324fcbe_5d44e587-1b4a-43f5-9899-1535b71ee20c_face14.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\816074a4-5e53-4d25-87c7-7c2ce7a1fae4_1ea058c6-a643-44f7-9fde-df63706cac0f_0bef125b-8988-4da7-8a51-e58cb324fcbe_5d44e587-1b4a-43f5-9899-1535b71ee20c_face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\865ac50d-70ec-4d22-a67e-d481a6e4880d_face2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\865ac50d-70ec-4d22-a67e-d481a6e4880d_face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\8680c1d2-1905-4e24-a611-2e4aa8b92b72_face4.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\8680c1d2-1905-4e24-a611-2e4aa8b92b72_face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\8883115a-2c46-4201-9283-8e72fa250c7e_1e19380c-3930-48d7-8a87-bc9aa8c6e224_face8.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\8883115a-2c46-4201-9283-8e72fa250c7e_1e19380c-3930-48d7-8a87-bc9aa8c6e224_face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\89b838d9-0f27-4495-a759-25a5fb8ed0c8_0bef125b-8988-4da7-8a51-e58cb324fcbe_5d44e587-1b4a-43f5-9899-1535b71ee20c_face14.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\89b838d9-0f27-4495-a759-25a5fb8ed0c8_0bef125b-8988-4da7-8a51-e58cb324fcbe_5d44e587-1b4a-43f5-9899-1535b71ee20c_face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\8af4b93b-9d3d-4855-9324-f8b63326082f_1ea058c6-a643-44f7-9fde-df63706cac0f_0bef125b-8988-4da7-8a51-e58cb324fcbe_5d44e587-1b4a-43f5-9899-1535b71ee20c_face14.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\8af4b93b-9d3d-4855-9324-f8b63326082f_1ea058c6-a643-44f7-9fde-df63706cac0f_0bef125b-8988-4da7-8a51-e58cb324fcbe_5d44e587-1b4a-43f5-9899-1535b71ee20c_face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\9085d3f4-5b73-4be9-9255-0af0002eb97c_0a03e4f6-7201-4d74-8a53-8edcf2e5c1ab_face8.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\9085d3f4-5b73-4be9-9255-0af0002eb97c_0a03e4f6-7201-4d74-8a53-8edcf2e5c1ab_face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\93e69707-5fcc-43bb-aa15-903ad1a51985_00c98be7-020f-4ed4-80cc-2c5cc0268cf2_face7.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\93e69707-5fcc-43bb-aa15-903ad1a51985_00c98be7-020f-4ed4-80cc-2c5cc0268cf2_face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\94e12c8e-3b72-4968-a4d3-aabbac8cfdd6_face9.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\94e12c8e-3b72-4968-a4d3-aabbac8cfdd6_face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\952191fd-107c-4f4d-b8fc-83f680af38c0_face2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\952191fd-107c-4f4d-b8fc-83f680af38c0_face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\960cd188-1e02-4224-b0c4-b4a839991d72_0eb59c85-11d5-4c01-94ff-49fdae079b3f_face8.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\960cd188-1e02-4224-b0c4-b4a839991d72_0eb59c85-11d5-4c01-94ff-49fdae079b3f_face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\98cee6c1-1985-4405-b61a-89c8e67b8aef_0eb59c85-11d5-4c01-94ff-49fdae079b3f_face8.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\98cee6c1-1985-4405-b61a-89c8e67b8aef_0eb59c85-11d5-4c01-94ff-49fdae079b3f_face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\9c77c3b5-29a5-456e-a415-939608781eca_1ea058c6-a643-44f7-9fde-df63706cac0f_0bef125b-8988-4da7-8a51-e58cb324fcbe_5d44e587-1b4a-43f5-9899-1535b71ee20c_face14.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\9c77c3b5-29a5-456e-a415-939608781eca_1ea058c6-a643-44f7-9fde-df63706cac0f_0bef125b-8988-4da7-8a51-e58cb324fcbe_5d44e587-1b4a-43f5-9899-1535b71ee20c_face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\9ed287bf-c13c-4d31-b39b-741277014bf4_00c98be7-020f-4ed4-80cc-2c5cc0268cf2_face7.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\9ed287bf-c13c-4d31-b39b-741277014bf4_00c98be7-020f-4ed4-80cc-2c5cc0268cf2_face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\9f17d338-92b6-4f5a-8582-930d6248f89f_product-1-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\9f17d338-92b6-4f5a-8582-930d6248f89f_product-1-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\a29bce7f-be82-4e5a-bf80-e996555c9803_00c98be7-020f-4ed4-80cc-2c5cc0268cf2_face7.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\a29bce7f-be82-4e5a-bf80-e996555c9803_00c98be7-020f-4ed4-80cc-2c5cc0268cf2_face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\a3225d6d-b2b3-4e53-ab01-8ab0010cf57b_00c98be7-020f-4ed4-80cc-2c5cc0268cf2_face7.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\a3225d6d-b2b3-4e53-ab01-8ab0010cf57b_00c98be7-020f-4ed4-80cc-2c5cc0268cf2_face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\a929b8fc-2b42-4b44-bc58-f91119140928_1ea058c6-a643-44f7-9fde-df63706cac0f_0bef125b-8988-4da7-8a51-e58cb324fcbe_5d44e587-1b4a-43f5-9899-1535b71ee20c_face14.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\a929b8fc-2b42-4b44-bc58-f91119140928_1ea058c6-a643-44f7-9fde-df63706cac0f_0bef125b-8988-4da7-8a51-e58cb324fcbe_5d44e587-1b4a-43f5-9899-1535b71ee20c_face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\aa60b22c-bfd9-4bac-9870-a238383e7c0c_1ea058c6-a643-44f7-9fde-df63706cac0f_0bef125b-8988-4da7-8a51-e58cb324fcbe_5d44e587-1b4a-43f5-9899-1535b71ee20c_face14.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\aa60b22c-bfd9-4bac-9870-a238383e7c0c_1ea058c6-a643-44f7-9fde-df63706cac0f_0bef125b-8988-4da7-8a51-e58cb324fcbe_5d44e587-1b4a-43f5-9899-1535b71ee20c_face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\b0c4dd37-dd37-4353-859e-56e43eb7020e_00c98be7-020f-4ed4-80cc-2c5cc0268cf2_face7.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\b0c4dd37-dd37-4353-859e-56e43eb7020e_00c98be7-020f-4ed4-80cc-2c5cc0268cf2_face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\b2a896cf-3871-411b-aabb-6b6e4dc61b20_0bef125b-8988-4da7-8a51-e58cb324fcbe_5d44e587-1b4a-43f5-9899-1535b71ee20c_face14.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\b2a896cf-3871-411b-aabb-6b6e4dc61b20_0bef125b-8988-4da7-8a51-e58cb324fcbe_5d44e587-1b4a-43f5-9899-1535b71ee20c_face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\b5b34346-24f0-4cd8-8af3-47919f093b0e_1ea058c6-a643-44f7-9fde-df63706cac0f_0bef125b-8988-4da7-8a51-e58cb324fcbe_5d44e587-1b4a-43f5-9899-1535b71ee20c_face14.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\b5b34346-24f0-4cd8-8af3-47919f093b0e_1ea058c6-a643-44f7-9fde-df63706cac0f_0bef125b-8988-4da7-8a51-e58cb324fcbe_5d44e587-1b4a-43f5-9899-1535b71ee20c_face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\b94053a9-ef09-4aaf-a586-e219b798cd51_02babe50-ff98-4a45-adde-4ebf44a65cbc_face6.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\b94053a9-ef09-4aaf-a586-e219b798cd51_02babe50-ff98-4a45-adde-4ebf44a65cbc_face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\bcadd5f3-93de-4733-9f05-3849df70f1e3_product-2-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\bcadd5f3-93de-4733-9f05-3849df70f1e3_product-2-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\bf18a8fc-37c0-49b4-ae99-40262fd16449_2ba3aa06-be3d-4dee-afe9-c3415dc5f9b0_face7.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\bf18a8fc-37c0-49b4-ae99-40262fd16449_2ba3aa06-be3d-4dee-afe9-c3415dc5f9b0_face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\bf91723f-a5ca-41d8-8de0-3573f082654e_2ba3aa06-be3d-4dee-afe9-c3415dc5f9b0_face7.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\bf91723f-a5ca-41d8-8de0-3573f082654e_2ba3aa06-be3d-4dee-afe9-c3415dc5f9b0_face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\c2129b89-4c41-4b96-81b3-853237552172_face1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\c2129b89-4c41-4b96-81b3-853237552172_face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\c23e8d0a-4515-4a37-8f81-e3c94050e894_0a03e4f6-7201-4d74-8a53-8edcf2e5c1ab_face8.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\c23e8d0a-4515-4a37-8f81-e3c94050e894_0a03e4f6-7201-4d74-8a53-8edcf2e5c1ab_face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\c3463f53-61a7-4b3f-bdb7-f1f0678aea7f_0eb59c85-11d5-4c01-94ff-49fdae079b3f_face8.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\c3463f53-61a7-4b3f-bdb7-f1f0678aea7f_0eb59c85-11d5-4c01-94ff-49fdae079b3f_face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\c3f47939-3d13-43f8-8584-3f1d62c3f5db_0a03e4f6-7201-4d74-8a53-8edcf2e5c1ab_face8.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\c3f47939-3d13-43f8-8584-3f1d62c3f5db_0a03e4f6-7201-4d74-8a53-8edcf2e5c1ab_face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\c4d5af96-7cc5-4ce4-ba00-f45cad6cc7e0_1ea058c6-a643-44f7-9fde-df63706cac0f_0bef125b-8988-4da7-8a51-e58cb324fcbe_5d44e587-1b4a-43f5-9899-1535b71ee20c_face14.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\c4d5af96-7cc5-4ce4-ba00-f45cad6cc7e0_1ea058c6-a643-44f7-9fde-df63706cac0f_0bef125b-8988-4da7-8a51-e58cb324fcbe_5d44e587-1b4a-43f5-9899-1535b71ee20c_face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\c78f8b53-52ed-4f1c-b5be-a56aeeb00fc0_1ea058c6-a643-44f7-9fde-df63706cac0f_0bef125b-8988-4da7-8a51-e58cb324fcbe_5d44e587-1b4a-43f5-9899-1535b71ee20c_face14.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\c78f8b53-52ed-4f1c-b5be-a56aeeb00fc0_1ea058c6-a643-44f7-9fde-df63706cac0f_0bef125b-8988-4da7-8a51-e58cb324fcbe_5d44e587-1b4a-43f5-9899-1535b71ee20c_face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\c91d87bf-4b92-4f69-b752-7f6c1485e163_face1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\c91d87bf-4b92-4f69-b752-7f6c1485e163_face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\cat-1.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\cat-1.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\cat-10.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\cat-10.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\cat-11.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\cat-11.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\cat-12.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\cat-12.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\cat-13.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\cat-13.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\cat-14.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\cat-14.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\cat-15.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\cat-15.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\cat-16.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\cat-16.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\cat-2.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\cat-2.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\cat-3.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\cat-3.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\cat-4.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\cat-4.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\cat-5.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\cat-5.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\cat-6.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\cat-6.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\cat-7.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\cat-7.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\cat-8.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\cat-8.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\cat-9.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\cat-9.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\cd5e328a-fa0c-4f41-ac4e-a2e35f2ed36e_0eb59c85-11d5-4c01-94ff-49fdae079b3f_face8.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\cd5e328a-fa0c-4f41-ac4e-a2e35f2ed36e_0eb59c85-11d5-4c01-94ff-49fdae079b3f_face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\ce7a88fc-d091-41bd-baa7-50dad2f62ada_0a03e4f6-7201-4d74-8a53-8edcf2e5c1ab_face8.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\ce7a88fc-d091-41bd-baa7-50dad2f62ada_0a03e4f6-7201-4d74-8a53-8edcf2e5c1ab_face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\cf505db4-70ae-4585-a6ff-b09bf4bb5629_01de4cbf-42e2-4592-bb6b-067ba9d50dc4_5ca37a57-5496-4b4a-88bb-16f17d1f8f33_4e81ac47-084f-406d-b3bd-f62da4137607_product-2-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\cf505db4-70ae-4585-a6ff-b09bf4bb5629_01de4cbf-42e2-4592-bb6b-067ba9d50dc4_5ca37a57-5496-4b4a-88bb-16f17d1f8f33_4e81ac47-084f-406d-b3bd-f62da4137607_product-2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\d2009c90-fca7-4b4d-babb-e2c8c000335e_face18.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\d2009c90-fca7-4b4d-babb-e2c8c000335e_face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\dd25f07b-b432-4eaa-a30f-ab3aaa789d4e_product-1-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\dd25f07b-b432-4eaa-a30f-ab3aaa789d4e_product-1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\dd603462-853c-4fe3-b789-e60392a9f800_02babe50-ff98-4a45-adde-4ebf44a65cbc_face6.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\dd603462-853c-4fe3-b789-e60392a9f800_02babe50-ff98-4a45-adde-4ebf44a65cbc_face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\e1688dde-04b3-4d6b-b231-0d126547f760_1ea058c6-a643-44f7-9fde-df63706cac0f_0bef125b-8988-4da7-8a51-e58cb324fcbe_5d44e587-1b4a-43f5-9899-1535b71ee20c_face14.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\e1688dde-04b3-4d6b-b231-0d126547f760_1ea058c6-a643-44f7-9fde-df63706cac0f_0bef125b-8988-4da7-8a51-e58cb324fcbe_5d44e587-1b4a-43f5-9899-1535b71ee20c_face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\e26d55d5-5783-4cc2-8e8d-1cbeb26bf323_1e19380c-3930-48d7-8a87-bc9aa8c6e224_face8.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\e26d55d5-5783-4cc2-8e8d-1cbeb26bf323_1e19380c-3930-48d7-8a87-bc9aa8c6e224_face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\e76b50b0-b65a-4f24-bc98-4f53db7ec105_0a03e4f6-7201-4d74-8a53-8edcf2e5c1ab_face8.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\e76b50b0-b65a-4f24-bc98-4f53db7ec105_0a03e4f6-7201-4d74-8a53-8edcf2e5c1ab_face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\e8ce39f2-61c2-4436-8e05-899c7e9c0dc6_1ea058c6-a643-44f7-9fde-df63706cac0f_0bef125b-8988-4da7-8a51-e58cb324fcbe_5d44e587-1b4a-43f5-9899-1535b71ee20c_face14.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\e8ce39f2-61c2-4436-8e05-899c7e9c0dc6_1ea058c6-a643-44f7-9fde-df63706cac0f_0bef125b-8988-4da7-8a51-e58cb324fcbe_5d44e587-1b4a-43f5-9899-1535b71ee20c_face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\e99eb71f-e479-4dd5-b772-7e7d7c57a3c7_1ea058c6-a643-44f7-9fde-df63706cac0f_0bef125b-8988-4da7-8a51-e58cb324fcbe_5d44e587-1b4a-43f5-9899-1535b71ee20c_face14.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\e99eb71f-e479-4dd5-b772-7e7d7c57a3c7_1ea058c6-a643-44f7-9fde-df63706cac0f_0bef125b-8988-4da7-8a51-e58cb324fcbe_5d44e587-1b4a-43f5-9899-1535b71ee20c_face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\ed7cbcb3-813d-4667-9666-30299a96dcae_00c98be7-020f-4ed4-80cc-2c5cc0268cf2_face7.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\ed7cbcb3-813d-4667-9666-30299a96dcae_00c98be7-020f-4ed4-80cc-2c5cc0268cf2_face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\edb2319c-1f61-4893-91c6-3791909fd048_1e19380c-3930-48d7-8a87-bc9aa8c6e224_face8.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\edb2319c-1f61-4893-91c6-3791909fd048_1e19380c-3930-48d7-8a87-bc9aa8c6e224_face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\edc208db-22ef-4882-b3b9-7cf15945b7c0_00c98be7-020f-4ed4-80cc-2c5cc0268cf2_face7.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\edc208db-22ef-4882-b3b9-7cf15945b7c0_00c98be7-020f-4ed4-80cc-2c5cc0268cf2_face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\f31a4e61-3e4d-4391-afcb-3e8a3ed5c6c7_0eb59c85-11d5-4c01-94ff-49fdae079b3f_face8.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\f31a4e61-3e4d-4391-afcb-3e8a3ed5c6c7_0eb59c85-11d5-4c01-94ff-49fdae079b3f_face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\f4ff5cae-de3a-4ea6-9b1c-da09e6445759_1ea058c6-a643-44f7-9fde-df63706cac0f_0bef125b-8988-4da7-8a51-e58cb324fcbe_5d44e587-1b4a-43f5-9899-1535b71ee20c_face14.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\f4ff5cae-de3a-4ea6-9b1c-da09e6445759_1ea058c6-a643-44f7-9fde-df63706cac0f_0bef125b-8988-4da7-8a51-e58cb324fcbe_5d44e587-1b4a-43f5-9899-1535b71ee20c_face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\ff7bcf26-7648-46b4-a35c-71bf6db0640f_1e19380c-3930-48d7-8a87-bc9aa8c6e224_face8.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\ff7bcf26-7648-46b4-a35c-71bf6db0640f_1e19380c-3930-48d7-8a87-bc9aa8c6e224_face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\product-1-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\product-1-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-1-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\product-10-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-10-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\product-10-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-10-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\product-11-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-11-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\product-11-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-11-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\product-12-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-12-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\product-12-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-12-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\product-13-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-13-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\product-13-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-13-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\product-14-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-14-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\product-14-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-14-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\product-15-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-15-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\product-15-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-15-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\product-16-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-16-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\product-16-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-16-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\product-16-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-16-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\product-16-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-16-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\product-16-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-16-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\product-16-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-16-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\product-16-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-16-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\product-3-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\product-3-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-3-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\product-4-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-4-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\product-4-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-4-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\product-5-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-5-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\product-5-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-5-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\product-6-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-6-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\product-6-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-6-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\product-7-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-7-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\product-7-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-7-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\product-8-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-8-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\product-8-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-8-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\product-9-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-9-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\product-9-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\product-9-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\thumbnail-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\thumbnail-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\thumbnail-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\thumbnail-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\thumbnail-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\thumbnail-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\thumbnail-12.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\thumbnail-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\thumbnail-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\thumbnail-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\thumbnail-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\thumbnail-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\thumbnail-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\thumbnail-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\thumbnail-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\thumbnail-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\thumbnail-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\thumbnail-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\thumbnail-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\thumbnail-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\thumbnail-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\thumbnail-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\shop\\thumbnail-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\shop\\thumbnail-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\slider\\slider-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\slider\\slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\slider\\slider-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\slider\\slider-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\slider\\slider-3.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\slider\\slider-3.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\slider\\slider-4.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\slider\\slider-4.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\slider\\slider-5.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\slider\\slider-5.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\slider\\slider-6.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\slider\\slider-6.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\slider\\slider-7.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\slider\\slider-7.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\slider\\slider-8.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\slider\\slider-8.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\app-store.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\app-store.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\favicon.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\favicon.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\flag-dt.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\flag-dt.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\flag-fr.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\flag-fr.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\flag-ru.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\flag-ru.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\google-play.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\google-play.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\category-1.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\category-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\category-10.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\category-10.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\category-11.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\category-11.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\category-2.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\category-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\category-3.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\category-3.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\category-4.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\category-4.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\category-5.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\category-5.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\category-6.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\category-6.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\category-7.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\category-7.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\category-8.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\category-8.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\category-9.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\category-9.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\coupon.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\coupon.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\icon-1.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\icon-2.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\icon-3.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-3.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\icon-4.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-4.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\icon-5.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-5.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\icon-6.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-6.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\icon-bookmark.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-bookmark.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\icon-cart.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-cart.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\icon-clock.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-clock.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\icon-compare.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-compare.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\icon-contact.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-contact.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\icon-download.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-download.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\icon-dribbble.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-dribbble.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\icon-email-2.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-email-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\icon-email.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-email.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\icon-facebook-brand.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-facebook-brand.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\icon-facebook-white.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-facebook-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\icon-facebook.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-facebook.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\icon-headphone-white.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-headphone-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\icon-headphone.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-headphone.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\icon-heart-2.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-heart-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\icon-heart.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-heart.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\icon-hot-white.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-hot-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\icon-hot.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-hot.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\icon-instagram-brand.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-instagram-brand.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\icon-instagram-white.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-instagram-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\icon-instagram.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-instagram.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\icon-invoice.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-invoice.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\icon-location.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-location.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\icon-pinterest-brand.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-pinterest-brand.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\icon-pinterest-white.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-pinterest-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\icon-pinterest.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-pinterest.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\icon-plane.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-plane.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\icon-print.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-print.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\icon-search.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-search.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\icon-twitter-brand.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-twitter-brand.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\icon-twitter-white.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-twitter-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\icon-twitter.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-twitter.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\icon-user.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-user.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\icon-youtube-brand.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-youtube-brand.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\icon-youtube-white.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-youtube-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\icon-youtube.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\icon-youtube.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\logo-apple.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\logo-apple.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\logo-facebook.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\logo-facebook.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\logo-google.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\logo-google.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\payment-master.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\payment-master.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\payment-paypal.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\payment-paypal.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\payment-visa.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\payment-visa.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\payment-zapper.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\payment-zapper.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\phone-call.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\phone-call.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\search.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\search.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\social-fb.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\social-fb.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\social-insta.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\social-insta.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\social-pin.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\social-pin.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\icons\\social-tw.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\icons\\social-tw.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\loading.gif",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\logo-2.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\logo-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\logo-light.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\logo-light.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\logo.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\payment-method.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\payment-method.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\rating-stars.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\rating-stars.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\theme\\wave.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\theme\\wave.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\vendor\\vendor-1.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\vendor\\vendor-1.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\vendor\\vendor-10.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\vendor\\vendor-10.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\vendor\\vendor-11.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\vendor\\vendor-11.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\vendor\\vendor-12.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\vendor\\vendor-12.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\vendor\\vendor-13.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\vendor\\vendor-13.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\vendor\\vendor-14.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\vendor\\vendor-14.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\vendor\\vendor-15.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\vendor\\vendor-15.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\vendor\\vendor-16.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\vendor\\vendor-16.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\vendor\\vendor-17.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\vendor\\vendor-17.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\vendor\\vendor-18.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\vendor\\vendor-18.svg"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\vendor\\vendor-2.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\vendor\\vendor-2.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\vendor\\vendor-3.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\vendor\\vendor-3.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\vendor\\vendor-4.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\vendor\\vendor-4.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\vendor\\vendor-5.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\vendor\\vendor-5.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\vendor\\vendor-6.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\vendor\\vendor-6.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\vendor\\vendor-7.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\vendor\\vendor-7.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\vendor\\vendor-8.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\vendor\\vendor-8.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\vendor\\vendor-9.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\vendor\\vendor-9.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\imgs\\vendor\\vendor-header-bg.png",
+      "PackagePath": "staticwebassets\\assets\\imgs\\vendor\\vendor-header-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\js\\invoice\\html2canvas.js",
+      "PackagePath": "staticwebassets\\assets\\js\\invoice\\html2canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\js\\invoice\\invoice.js",
+      "PackagePath": "staticwebassets\\assets\\js\\invoice\\invoice.js"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\js\\invoice\\jspdf.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\invoice\\jspdf.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\js\\plugins\\TweenMax.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\TweenMax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\js\\plugins\\counterup.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\counterup.js"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\js\\plugins\\custom-parallax.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\custom-parallax.js"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\js\\plugins\\images-loaded.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\images-loaded.js"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\js\\plugins\\isotope.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\isotope.js"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\js\\plugins\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\jquery-ui.js"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\js\\plugins\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\js\\plugins\\jquery.elevatezoom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\jquery.elevatezoom.js"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\js\\plugins\\jquery.syotimer.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\jquery.syotimer.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\js\\plugins\\jquery.theia.sticky.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\jquery.theia.sticky.js"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\js\\plugins\\jquery.vticker-min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\jquery.vticker-min.js"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\js\\plugins\\leaflet.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\leaflet.js"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\js\\plugins\\magnific-popup.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\magnific-popup.js"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\js\\plugins\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\js\\plugins\\scrollup.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\scrollup.js"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\js\\plugins\\select2.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\js\\plugins\\slick.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\slick.js"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\js\\plugins\\slider-range.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\slider-range.js"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\js\\plugins\\waypoints.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\waypoints.js"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\js\\plugins\\wow.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\js\\shop.js",
+      "PackagePath": "staticwebassets\\assets\\js\\shop.js"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\js\\vendor\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\js\\vendor\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\js\\vendor\\jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\js\\vendor\\jquery-migrate-3.3.0.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-migrate-3.3.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\js\\vendor\\modernizr-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\modernizr-3.6.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\sass\\abstracts\\_functions.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\abstracts\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\sass\\abstracts\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\abstracts\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\sass\\abstracts\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\abstracts\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\sass\\base\\_animation.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\base\\_animation.scss"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\sass\\base\\_common.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\base\\_common.scss"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\sass\\base\\_typography.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\base\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\sass\\components\\_banners.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_banners.scss"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\sass\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\sass\\components\\_card.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\sass\\components\\_form.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_form.scss"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\sass\\components\\_misc.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\sass\\components\\_slider.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_slider.scss"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\sass\\components\\_tabs.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\components\\_tabs.scss"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\sass\\layout\\_footer.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\sass\\layout\\_header.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\sass\\layout\\_navigation.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_navigation.scss"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\sass\\layout\\_responsive.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\sass\\layout\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\sass\\layout\\_spacing.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\layout\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\sass\\main.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\main.scss"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\sass\\pages\\_blog.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\pages\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\sass\\pages\\_invoice.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\pages\\_invoice.scss"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\sass\\pages\\_page.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\pages\\_page.scss"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\sass\\pages\\_print.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\pages\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\sass\\pages\\_shop.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\pages\\_shop.scss"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\sass\\pages\\_vendors.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\pages\\_vendors.scss"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\sass\\themes\\_default.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\themes\\_default.scss"
+    },
+    {
+      "Id": "C:\\Users\\asger\\OneDrive\\Masaüstü\\BB204_Nest_Web_App\\BB204_Nest_Web_App\\wwwroot\\assets\\sass\\vendors\\_vendors-import.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\vendors\\_vendors-import.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BB204_Nest_Web_App.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BB204_Nest_Web_App.props",
+      "PackagePath": "build\\BB204_Nest_Web_App.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BB204_Nest_Web_App.props",
+      "PackagePath": "buildMultiTargeting\\BB204_Nest_Web_App.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BB204_Nest_Web_App.props",
+      "PackagePath": "buildTransitive\\BB204_Nest_Web_App.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

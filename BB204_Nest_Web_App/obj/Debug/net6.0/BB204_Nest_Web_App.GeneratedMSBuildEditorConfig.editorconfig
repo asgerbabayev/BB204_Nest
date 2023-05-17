@@ -1,0 +1,141 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BB204_Nest_Web_App
+build_property.RootNamespace = BB204_Nest_Web_App
+build_property.ProjectDir = C:\Users\asger\OneDrive\Masaüstü\BB204_Nest_Web_App\BB204_Nest_Web_App\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\asger\OneDrive\Masaüstü\BB204_Nest_Web_App\BB204_Nest_Web_App
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/asger/OneDrive/Masaüstü/BB204_Nest_Web_App/BB204_Nest_Web_App/Areas/NestAdmin/Views/Categories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTmVzdEFkbWluXFZpZXdzXENhdGVnb3JpZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asger/OneDrive/Masaüstü/BB204_Nest_Web_App/BB204_Nest_Web_App/Areas/NestAdmin/Views/Categories/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTmVzdEFkbWluXFZpZXdzXENhdGVnb3JpZXNcRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asger/OneDrive/Masaüstü/BB204_Nest_Web_App/BB204_Nest_Web_App/Areas/NestAdmin/Views/Categories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTmVzdEFkbWluXFZpZXdzXENhdGVnb3JpZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asger/OneDrive/Masaüstü/BB204_Nest_Web_App/BB204_Nest_Web_App/Areas/NestAdmin/Views/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTmVzdEFkbWluXFZpZXdzXENhdGVnb3JpZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asger/OneDrive/Masaüstü/BB204_Nest_Web_App/BB204_Nest_Web_App/Areas/NestAdmin/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTmVzdEFkbWluXFZpZXdzXERhc2hib2FyZFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asger/OneDrive/Masaüstü/BB204_Nest_Web_App/BB204_Nest_Web_App/Areas/NestAdmin/Views/Products/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTmVzdEFkbWluXFZpZXdzXFByb2R1Y3RzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asger/OneDrive/Masaüstü/BB204_Nest_Web_App/BB204_Nest_Web_App/Areas/NestAdmin/Views/Products/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTmVzdEFkbWluXFZpZXdzXFByb2R1Y3RzXERldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asger/OneDrive/Masaüstü/BB204_Nest_Web_App/BB204_Nest_Web_App/Areas/NestAdmin/Views/Products/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTmVzdEFkbWluXFZpZXdzXFByb2R1Y3RzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asger/OneDrive/Masaüstü/BB204_Nest_Web_App/BB204_Nest_Web_App/Areas/NestAdmin/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTmVzdEFkbWluXFZpZXdzXFByb2R1Y3RzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asger/OneDrive/Masaüstü/BB204_Nest_Web_App/BB204_Nest_Web_App/Areas/NestAdmin/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTmVzdEFkbWluXFZpZXdzXFNoYXJlZFxfQWRtaW5MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asger/OneDrive/Masaüstü/BB204_Nest_Web_App/BB204_Nest_Web_App/Areas/NestAdmin/Views/Tags/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTmVzdEFkbWluXFZpZXdzXFRhZ3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asger/OneDrive/Masaüstü/BB204_Nest_Web_App/BB204_Nest_Web_App/Areas/NestAdmin/Views/Tags/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTmVzdEFkbWluXFZpZXdzXFRhZ3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asger/OneDrive/Masaüstü/BB204_Nest_Web_App/BB204_Nest_Web_App/Areas/NestAdmin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTmVzdEFkbWluXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asger/OneDrive/Masaüstü/BB204_Nest_Web_App/BB204_Nest_Web_App/Areas/NestAdmin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTmVzdEFkbWluXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asger/OneDrive/Masaüstü/BB204_Nest_Web_App/BB204_Nest_Web_App/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asger/OneDrive/Masaüstü/BB204_Nest_Web_App/BB204_Nest_Web_App/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asger/OneDrive/Masaüstü/BB204_Nest_Web_App/BB204_Nest_Web_App/Views/Home/Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asger/OneDrive/Masaüstü/BB204_Nest_Web_App/BB204_Nest_Web_App/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asger/OneDrive/Masaüstü/BB204_Nest_Web_App/BB204_Nest_Web_App/Views/Home/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZWFyY2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asger/OneDrive/Masaüstü/BB204_Nest_Web_App/BB204_Nest_Web_App/Views/Product/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asger/OneDrive/Masaüstü/BB204_Nest_Web_App/BB204_Nest_Web_App/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asger/OneDrive/Masaüstü/BB204_Nest_Web_App/BB204_Nest_Web_App/Views/Product/Shop.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxTaG9wLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asger/OneDrive/Masaüstü/BB204_Nest_Web_App/BB204_Nest_Web_App/Views/Shared/Components/Basket/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQmFza2V0XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asger/OneDrive/Masaüstü/BB204_Nest_Web_App/BB204_Nest_Web_App/Views/Shared/Components/Cart/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2FydFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asger/OneDrive/Masaüstü/BB204_Nest_Web_App/BB204_Nest_Web_App/Views/Shared/Components/Comment/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ29tbWVudFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asger/OneDrive/Masaüstü/BB204_Nest_Web_App/BB204_Nest_Web_App/Views/Shared/Components/Product/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUHJvZHVjdFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asger/OneDrive/Masaüstü/BB204_Nest_Web_App/BB204_Nest_Web_App/Views/Shared/Components/Search/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2VhcmNoXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asger/OneDrive/Masaüstü/BB204_Nest_Web_App/BB204_Nest_Web_App/Views/Shared/_ProductPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Qcm9kdWN0UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asger/OneDrive/Masaüstü/BB204_Nest_Web_App/BB204_Nest_Web_App/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asger/OneDrive/Masaüstü/BB204_Nest_Web_App/BB204_Nest_Web_App/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asger/OneDrive/Masaüstü/BB204_Nest_Web_App/BB204_Nest_Web_App/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-luzd4jjyuz

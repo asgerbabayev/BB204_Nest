@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Create";
+}
+
+@model Tag
+
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Tag Create Form</h4>
+            <form class="forms-sample" asp-action="Create">
+                <div class="form-group">
+                    <label asp-for="Name"></label>
+                    <input asp-for="Name" class="form-control" placeholder="Name">
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+                <div asp-validation-summary="ModelOnly"></div>
+                <button type="submit" class="btn btn-primary mr-2">Submit</button>
+                <button asp-action="Index" class="btn btn-light">Cancel</button>
+            </form>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,12 @@
+﻿@using BB204_Nest_Web_App.ViewModels.SearchVms;
+@model SearchVM
+
+<div class="search-style-2">
+    <form asp-action="Search" asp-controller="Home">
+        <select class="select-active" asp-for="CategoryId" asp-items="new SelectList(Model.Categories,nameof(Category.Id),nameof(Category.Name))">
+            <option>All Categories</option>
+        </select>
+        <input asp-for="@Model.ProductName" placeholder="Search for items..." />
+        <button class="btn btn-outline-success" type="submit">Search</button>
+    </form>
+</div>
